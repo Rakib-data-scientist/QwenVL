@@ -3,29 +3,29 @@
 Inspired by : https://arxiv.org/pdf/2308.12966v1.pdf
 
 1.
-![Introducing-Qwen-VL-Large-Scale-Vision-Language-Models_page-0001](https://github.com/Rakib-data-scientist/QwenVL/assets/137823730/8eff6e00-11c6-4791-874b-72fc1d858b6f)
+![Introducing-Qwen-VL-Large-Scale-Vision-Language-Models_page-0001](https://github.com/Rakib-data-scientist/QwenVL/assets/137823730/df859bba-8e55-4acf-82b2-e498f3f8c1f8)
 2.
-![Introducing-Qwen-VL-Large-Scale-Vision-Language-Models_page-0002](https://github.com/Rakib-data-scientist/QwenVL/assets/137823730/f5237fda-dea3-4192-8b1d-71f61a666101)
+![Introducing-Qwen-VL-Large-Scale-Vision-Language-Models_page-0002](https://github.com/Rakib-data-scientist/QwenVL/assets/137823730/d405ecaf-f5dc-4a74-8ef1-3ea98aedf235)
 3.
-![Introducing-Qwen-VL-Large-Scale-Vision-Language-Models_page-0003](https://github.com/Rakib-data-scientist/QwenVL/assets/137823730/0053dbe7-6268-4e1e-b8ed-0faadc965842)
+![Introducing-Qwen-VL-Large-Scale-Vision-Language-Models_page-0003](https://github.com/Rakib-data-scientist/QwenVL/assets/137823730/b674b043-1f6c-453d-8cdc-54f1686bd593)
 4.
-![Introducing-Qwen-VL-Large-Scale-Vision-Language-Models_page-0004](https://github.com/Rakib-data-scientist/QwenVL/assets/137823730/c6725755-2523-4115-9eec-e340a9da33e3)
+![Introducing-Qwen-VL-Large-Scale-Vision-Language-Models_page-0004](https://github.com/Rakib-data-scientist/QwenVL/assets/137823730/f83ffdf6-c8ae-4427-82c8-183c7af1e6bb)
 5.
-![Introducing-Qwen-VL-Large-Scale-Vision-Language-Models_page-0005](https://github.com/Rakib-data-scientist/QwenVL/assets/137823730/e4437104-6ea5-47e9-9b6c-83a2658abfe7)
+![Introducing-Qwen-VL-Large-Scale-Vision-Language-Models_page-0005](https://github.com/Rakib-data-scientist/QwenVL/assets/137823730/10845470-5dc6-4325-ac29-b15225986f37)
 6.
-![Introducing-Qwen-VL-Large-Scale-Vision-Language-Models_page-0006](https://github.com/Rakib-data-scientist/QwenVL/assets/137823730/73e43061-74c1-4b67-a162-42516b3097e4)
+![Introducing-Qwen-VL-Large-Scale-Vision-Language-Models_page-0006](https://github.com/Rakib-data-scientist/QwenVL/assets/137823730/e2b4ccc3-ec4a-40ce-aa27-f49528963bf7)
 7.
-![Introducing-Qwen-VL-Large-Scale-Vision-Language-Models_page-0007](https://github.com/Rakib-data-scientist/QwenVL/assets/137823730/77896488-a067-45ce-bea9-0e1863732554)
+![Introducing-Qwen-VL-Large-Scale-Vision-Language-Models_page-0007](https://github.com/Rakib-data-scientist/QwenVL/assets/137823730/339b5ed6-5d3c-4dd7-b736-b6fb0b431e75)
 8.
-![Introducing-Qwen-VL-Large-Scale-Vision-Language-Models_page-0008](https://github.com/Rakib-data-scientist/QwenVL/assets/137823730/7cdd1665-8f43-4434-b373-97b17de5f661)
+![Introducing-Qwen-VL-Large-Scale-Vision-Language-Models_page-0008](https://github.com/Rakib-data-scientist/QwenVL/assets/137823730/ab01c3df-21d2-437f-bb34-eeb6c4820b42)
 9.
-![Introducing-Qwen-VL-Large-Scale-Vision-Language-Models_page-0009](https://github.com/Rakib-data-scientist/QwenVL/assets/137823730/a9ed32a5-841f-4fff-b4ce-465d59e163c1)
+![Introducing-Qwen-VL-Large-Scale-Vision-Language-Models_page-0009](https://github.com/Rakib-data-scientist/QwenVL/assets/137823730/19ce8f92-6edb-4ed1-8156-166c223000bb)
 10.
-![Introducing-Qwen-VL-Large-Scale-Vision-Language-Models_page-0010](https://github.com/Rakib-data-scientist/QwenVL/assets/137823730/34685279-6702-4b02-9a12-cf6b9c1256dd)
+![Introducing-Qwen-VL-Large-Scale-Vision-Language-Models_page-0010](https://github.com/Rakib-data-scientist/QwenVL/assets/137823730/9a3f25bc-4213-4db9-b69c-8e9c931bccd1)
 11.
-![Introducing-Qwen-VL-Large-Scale-Vision-Language-Models_page-0011](https://github.com/Rakib-data-scientist/QwenVL/assets/137823730/a4d91304-6ac3-4bb2-867e-f85c631bb686)
+![Introducing-Qwen-VL-Large-Scale-Vision-Language-Models_page-0011](https://github.com/Rakib-data-scientist/QwenVL/assets/137823730/90a41393-5831-4174-8a61-0a82d56bd9cf)
 12.
-![Introducing-Qwen-VL-Large-Scale-Vision-Language-Models_page-0012](https://github.com/Rakib-data-scientist/QwenVL/assets/137823730/8b78091c-4884-48bf-b33a-74654f308c3e)
+![Introducing-Qwen-VL-Large-Scale-Vision-Language-Models_page-0012](https://github.com/Rakib-data-scientist/QwenVL/assets/137823730/e5cc0ad9-f16c-4611-b92a-0609b59d39f3)
 13.
-![Introducing-Qwen-VL-Large-Scale-Vision-Language-Models_page-0013](https://github.com/Rakib-data-scientist/QwenVL/assets/137823730/e77478f8-0997-4831-b200-c3ef67dbeb2f)
+![Introducing-Qwen-VL-Large-Scale-Vision-Language-Models_page-0013](https://github.com/Rakib-data-scientist/QwenVL/assets/137823730/9bb7c674-9347-4160-bd33-d0f6e68c97b2)
 
