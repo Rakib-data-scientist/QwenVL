@@ -1,6 +1,6 @@
 # QwenVL
 
-Inspired by : https://arxiv.org/pdf/2308.12966v1.pdf
+
 
 1.
 ![Introducing-Qwen-VL-Large-Scale-Vision-Language-Models_page-0001](https://github.com/Rakib-data-scientist/QwenVL/assets/137823730/df859bba-8e55-4acf-82b2-e498f3f8c1f8)
@@ -29,3 +29,4 @@ Inspired by : https://arxiv.org/pdf/2308.12966v1.pdf
 13.
 ![Introducing-Qwen-VL-Large-Scale-Vision-Language-Models_page-0013](https://github.com/Rakib-data-scientist/QwenVL/assets/137823730/9bb7c674-9347-4160-bd33-d0f6e68c97b2)
 
+* Inspired by : https://arxiv.org/pdf/2308.12966v1.pdf
